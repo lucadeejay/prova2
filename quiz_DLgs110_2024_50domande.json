@@ -1,0 +1,29 @@
+[
+  {
+    "N°": 1,
+    "Domanda": "Qual è l'obiettivo principale del D.Lgs. 110/2024?",
+    "A": "Eliminare le cartelle esattoriali",
+    "B": "Riformare il sistema previdenziale",
+    "C": "Riformare il sistema di riscossione",
+    "D": "Ridurre le aliquote IVA",
+    "Risposta corretta": "C"
+  },
+  {
+    "N°": 2,
+    "Domanda": "Quale ente effettua la riscossione per conto di diversi enti pubblici?",
+    "A": "Ministero del Tesoro",
+    "B": "Agenzia delle entrate–riscossione",
+    "C": "Corte dei Conti",
+    "D": "INPS",
+    "Risposta corretta": "B"
+  },
+  {
+    "N°": 50,
+    "Domanda": "Quale limite temporale è fissato per il monitoraggio degli effetti della riforma?",
+    "A": "2026",
+    "B": "2027",
+    "C": "2029",
+    "D": "2031",
+    "Risposta corretta": "D"
+  }
+]
